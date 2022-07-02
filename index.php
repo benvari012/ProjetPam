@@ -77,4 +77,4 @@ Travail à faire
 38. Supprimer la table avion ; 
 39. Supprimer la table pilote ; 
 40. Reprendre les insertions des trois (3) tables (pilote, avion, vol). 
-
+41. Créer un vue
